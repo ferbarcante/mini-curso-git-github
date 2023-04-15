@@ -17,3 +17,7 @@
   <li>git clone &lt;url do repositório&gt;</li><br>
   <li>Agora pegou o repositório e trouxe para sua máquina.</li><br>
 </ol>
+ <h1>Comandos para Commit</h1>
+ <h2>Git status</h2>
+<p>Sempre verifique o que foi mudado antes de commitar, isso impede que coisas indesejáveis vão para o repositório.</p><br>
+<p>Tudo o que está em **vermelho** é algo novo que fizemos e que não está no repositório ainda mas está na pasta.</p>
