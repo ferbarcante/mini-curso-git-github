@@ -1,2 +1,2 @@
 # mini-curso-git-github
-Repositório de experimentação do mini-curso de Git/Github. 🎉
+<h1> O que é? </h1>
