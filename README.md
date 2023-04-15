@@ -1,2 +1,2 @@
 # mini-curso-git-github
-Repositório de experimentação do mini-curso de Git/Github. 💻
+Repositório de experimentação do mini-curso de Git/Github. 🎉
