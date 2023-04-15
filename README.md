@@ -12,6 +12,8 @@
 <p>É uma fotografia do seu código em um determinado momento no tempo quando fazemos um commit estamos salvando uma versão do nosso código </p>
 <h2>Git clone -  clone < URL ></h2>
   <p>Ele faz uma cópia do próprio projeto que você quer trabalhar e traz tudo para sua máquina.</p>
-1. copiar o link no code.
-2. git cline <url do repositório>
-3. Agora pegou o repositório e trouxe para sua máquina
+<ol>
+  <li>Copiar o link no code.</li>
+  <li>git clone &lt;url do repositório&gt;</li>
+  <li>Agora pegou o repositório e trouxe para sua máquina.</li>
+</ol>
