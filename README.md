@@ -13,7 +13,7 @@
 <h2>Git clone -  clone < URL ></h2>
   <p>Ele faz uma cópia do próprio projeto que você quer trabalhar e traz tudo para sua máquina.</p>
 <ol>
-  <li>Copiar o link no code.</li>
-  <li>git clone &lt;url do repositório&gt;</li>
-  <li>Agora pegou o repositório e trouxe para sua máquina.</li>
+  <li>Copiar o link no code.</li><br>
+  <li>git clone &lt;url do repositório&gt;</li><br>
+  <li>Agora pegou o repositório e trouxe para sua máquina.</li><br>
 </ol>
