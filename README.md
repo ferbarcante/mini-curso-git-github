@@ -5,8 +5,8 @@
 <h2>O que é uma CLI?</h2>
 <p>É uma sigla para “Command Line Interface”, as CLI’s são utilizadas por diversas aplicações e funcionam de forma facilitar o envio de comandos aos softwares através do terminal.</p>
 <h2>Repositório</h2>
-- É onde os arquivos do seu projeto são armazenados juntamente com todas as versões anteriores.
-- É legal quando estiver em equipe criar como organização pois ai todos terão aquele repositório como seu
+<li> É onde os arquivos do seu projeto são armazenados juntamente com todas as versões anteriores.</li>
+<li>É legal quando estiver em equipe criar como organização pois ai todos terão aquele repositório como seu.</li>
 <h1>Github</h1>
 <h2>Commit</h2>
 <p>É uma fotografia do seu código em um determinado momento no tempo quando fazemos um commit estamos salvando uma versão do nosso código </p>
